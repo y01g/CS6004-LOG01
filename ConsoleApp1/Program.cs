@@ -1,7 +1,4 @@
 ﻿// task 1
-
-using System.Reflection.Metadata;
-
 class Program
 {
 

@@ -12,3 +12,4 @@ C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj
 C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
