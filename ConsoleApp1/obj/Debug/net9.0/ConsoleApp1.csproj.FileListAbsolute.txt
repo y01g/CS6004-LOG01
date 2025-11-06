@@ -1,0 +1,14 @@
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\System90\Semester_5\Application_Development_CS6004\week_2\lab\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
